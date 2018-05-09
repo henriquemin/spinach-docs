@@ -1,0 +1,25 @@
+site_name: 后台文档
+pages:
+  - 首页: index.md
+  - 认证: auth.md
+  - 数据概览: dashboard.md
+  - 事件分析: event.md
+  - 留存分析: retention.md
+  - 用户管理: user.md
+  - CRM: crm.md
+  - 审核管理: review.md
+  - 充值管理: recharge.md
+  - 提现管理: withdraw.md
+  - 转账管理: transfer.md
+  - 支付管理: payment.md
+  - 代理管理: agent.md
+  - 活动管理: promotion.md
+  - 注单管理: zd.md
+  - 消息管理: notice.md
+  - 内容管理: cms.md
+  - 游戏管理: game.md
+  - 日志管理: log.md
+  - 系统设置: settings.md
+
+theme: readthedocs
+repo_url: https://github.com/yxy/spinach-docs/
